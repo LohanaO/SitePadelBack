@@ -1,0 +1,24 @@
+.contenedor-flex{
+  
+    
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   align-content: center;
+   margin-top: 0;
+
+    column-gap: 20px;
+
+
+    
+}
+
+.imagen-nosotros{
+  max-width: 800px;
+  margin-left: px;
+  margin-top: 100px;
+
+}
+
+
